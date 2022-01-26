@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(38, 38, 38);
+}
+
+.a, .b {
+  font-size: 48px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.a {
+  background-color: black;
+  color: white;
+}
+
+.b {
+  background-color: yellow;
+}
